@@ -242,7 +242,7 @@ This project is created for educational purposes as part of AccioJob SQL Bootcam
 ## 👨‍💻 Author
 
 **AccioJob SQL Bootcamp**  
-Instructor: Sayyed Siraj Ali
+Student : Amarsa Banerjee
 
 ---
 
